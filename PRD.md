@@ -33,9 +33,10 @@ Sản phẩm là một nền tảng giáo dục trực tuyến, tập trung vào
     *   Số lượt học sinh đã làm bài
 *   **Giao diện làm bài:**
     *   Giao diện tối giản, tập trung vào nội dung.
+    *   **Hiển thị từng câu hỏi một:** Mỗi lần chỉ hiển thị một câu hỏi. Với các câu hỏi dạng Đúng/Sai có nhiều ý nhỏ (ví dụ: 1a, 1b, 1c, 1d), tất cả các ý này sẽ được nhóm lại và hiển thị cùng lúc trên một trang câu hỏi.
     *   Khu vực câu hỏi.
-    *   Khu vực điều hướng câu hỏi (Question navigation).
-    *   Khu vực trả lời (trắc nghiệm).
+    *   Khu vực điều hướng câu hỏi (Question navigation section): Cho phép chuyển đổi giữa các câu hỏi và hiển thị trạng thái (đã làm, chưa làm, đã đánh dấu).
+    *   Khu vực trả lời (Answering section - multiple choice, true/false, short answer).
     *   Đồng hồ đếm ngược (90 phút).
 
 ### 3.2. Phòng luyện tập
